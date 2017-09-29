@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.26)  28 SEP 2017 23:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.26)  29 SEP 2017 00:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,23 +549,89 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [1] [2] [3] [4] [5] (./main.aux) ) 
+ [1]
+<images/1a-Imp.png, id=13, 1445.4pt x 689.57625pt>
+File: images/1a-Imp.png Graphic file (type png)
+<use images/1a-Imp.png>
+Package pdftex.def Info: images/1a-Imp.png  used on input line 62. on input lin
+e 62.
+Package pdftex.def Info: Requested size: 433.62335pt x 206.87447pt on input lin
+e 62.
+
+Overfull \hbox (6.83202pt too wide) in paragraph at lines 62--63
+ [][] 
+ []
+
+<images/1a-Deg.png, id=14, 718.93594pt x 455.45157pt>
+File: images/1a-Deg.png Graphic file (type png)
+<use images/1a-Deg.png>
+Package pdftex.def Info: images/1a-Deg.png  used on input line 68. on input lin
+e 68.
+Package pdftex.def Info: Requested size: 359.46709pt x 227.72522pt on input lin
+e 68.
+<images/1a-Ramp.png, id=15, 718.93594pt x 455.45157pt>
+File: images/1a-Ramp.png Graphic file (type png)
+<use images/1a-Ramp.png>
+Package pdftex.def Info: images/1a-Ramp.png  used on input line 74. on input li
+ne 74.
+Package pdftex.def Info: Requested size: 359.46709pt x 227.72522pt on input lin
+e 74.
+<images/1a-Exp.png, id=16, 718.93594pt x 455.45157pt>
+File: images/1a-Exp.png Graphic file (type png)
+<use images/1a-Exp.png>
+Package pdftex.def Info: images/1a-Exp.png  used on input line 80. on input lin
+e 80.
+Package pdftex.def Info: Requested size: 359.46709pt x 227.72522pt on input lin
+e 80.
+<images/1a-Tudo.png, id=17, 718.93594pt x 455.45157pt>
+File: images/1a-Tudo.png Graphic file (type png)
+<use images/1a-Tudo.png>
+Package pdftex.def Info: images/1a-Tudo.png  used on input line 86. on input li
+ne 86.
+Package pdftex.def Info: Requested size: 359.46709pt x 227.72522pt on input lin
+e 86.
+[2 <./images/1a-Imp.png (PNG copy)>]
+<images/1c-Deg1.png, id=21, 563.10374pt x 273.27094pt>
+File: images/1c-Deg1.png Graphic file (type png)
+<use images/1c-Deg1.png>
+Package pdftex.def Info: images/1c-Deg1.png  used on input line 99. on input li
+ne 99.
+Package pdftex.def Info: Requested size: 281.55118pt x 136.63512pt on input lin
+e 99.
+ [3 <./images/1a-Deg.png (PNG copy)> <./images/1a-Ramp.png (PNG copy)>]
+<images/1c-Deg2.png, id=25, 563.10374pt x 273.27094pt>
+File: images/1c-Deg2.png Graphic file (type png)
+<use images/1c-Deg2.png>
+Package pdftex.def Info: images/1c-Deg2.png  used on input line 105. on input l
+ine 105.
+Package pdftex.def Info: Requested size: 281.55118pt x 136.63512pt on input lin
+e 105.
+<images/1c-Rect.png, id=26, 563.10374pt x 273.27094pt>
+File: images/1c-Rect.png Graphic file (type png)
+<use images/1c-Rect.png>
+Package pdftex.def Info: images/1c-Rect.png  used on input line 111. on input l
+ine 111.
+Package pdftex.def Info: Requested size: 281.55118pt x 136.63512pt on input lin
+e 111.
+ [4 <./images/1a-Exp.png (PNG copy)> <./images/1a-Tudo.png (PNG copy)>] [5 <./i
+mages/1c-Deg1.png (PNG copy)> <./images/1c-Deg2.png (PNG copy)> <./images/1c-Re
+ct.png (PNG copy)>] [6] [7] [8] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2737 strings out of 492990
- 37209 string characters out of 6132636
+ 2777 strings out of 492990
+ 38010 string characters out of 6132636
  113948 words of memory out of 5000000
- 6255 multiletter control sequences out of 15000+600000
+ 6287 multiletter control sequences out of 15000+600000
  8500 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,25p,676b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (6 pages, 1318839 bytes).
+ 41i,6n,25p,676b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (9 pages, 1453766 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
