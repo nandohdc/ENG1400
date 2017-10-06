@@ -1,6 +1,10 @@
-t = (-9: 1: 9)';
-d = t >= 0;
-r1 = t.*d;
-r2 = t-4.*d;
-tri = r1 + r2;
-stem(t, r1, 'filled');
+t = (-5:1:5)';
+
+impulse = t==0;
+unitstep = t>=0;
+unitstep1 = (t+5)>=0;
+unitstep2 = (t)>=0;
+ramp1 = (t+5).*unitstep1;
+ramp2 = (2*t).*unitstep;
+ramp = (ramp1 - ramp2) / 5;
+stem(t, impulse);

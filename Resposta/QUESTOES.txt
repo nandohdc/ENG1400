@@ -1,0 +1,19 @@
+QUESTOES
+
+QUESTAO 1
+
+(a) Podemos analisar pelos graficos plotados pela função stem() cada um dos sinais discretos.
+ Há superposição de sinais, logo, fizemos um grafico para cada sinal e no final disponibilizamos todos em uma unica janela grafica. [insira janela grafica de todos os sinais aqui]
+ Vemos que no sinal impulso unitario <latex dirac> para k(ou n, nao sei) != 0, os valores são zeros e em k = 0, impulso tem o valor unitario  <latex definicao dirac>. [insira janela grafica impulso aqui]
+ Para o degrau, temos que para k < 0; o sinal vale 0 e para k >= 0, o sinal vale 1, lembrando que o degrau unitário é a integral do inpulso unitario (kroenecker fernando! nao dirac) <latex kroenecker>. [insira janela grafica degrau aqui]
+Para a rampa, que é a integral do degrau, temos que para t < 0, o sinal vale 0 e para t >= 0; o sinal vale t <latex rampa>. [insira janela grafica rampa aqui]
+A exponencial vale 0 para t < 0 e e^a*t para t >=0 <latex exponencial>. [insira janela grafica exponencial aqui]
+
+(b) Como temos um sinal exponencial (e^a*t) | a > 1, e = 2,718 281 828 459 045 235 360 287, para t >= 2, vemos que sinal > 3. Logo, temos que ter valores de t > 1 && t < 2. Depois de tentativas experimentais, descobrimos que para t = 1.1, o valor de Pa[10] = 2.594. [insira janela grafica exponencial]
+
+(c) a nossa funcao retangular (rect[n]) é formada pela subtracao de dois degraus, sendo que um deve ser deslocado da origem. No nosso exemplo, fizemos a funcao retc[n] =  u-1[k-2] - u-1[k-6], assim, obtemos um retangulo de amplitude 1 e largura M1(4). [insira essa porra de grafico aqui]
+
+(d) a nossa funcao triangular (tri[n]) é formada pela subtração de duas rampas, uma rampa deslocada para esquerda 5 unidades e uma rampa de amplitude 2 centrada na origem, alem de dividir por 5 para obtermos a amplitude desejada. a funcao tri[n] = (u-2[k-5] - 2*u-2[k]) / 5. Assim, obtemos um triangulo de amplitude 1 e largura M2(5). [grafico]
+
+QUESTAO 2
+
