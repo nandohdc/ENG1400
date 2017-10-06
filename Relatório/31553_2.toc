@@ -1,0 +1,7 @@
+\select@language {portuguese}
+\contentsline {section}{Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{Quest\IeC {\~a}o 1}{2}
+\contentsline {section}{Quest\IeC {\~a}o 2}{2}
+\contentsline {section}{Quest\IeC {\~a}o 3}{2}
+\contentsline {section}{Conclus\IeC {\~a}o}{3}
+\contentsline {section}{\IeC {\'I}ndice Remissivo}{3}

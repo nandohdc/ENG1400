@@ -1,0 +1,11 @@
+Questão 1 - Essa questão aborda conceitos básicos sobre construção de sinais e suas representação em um domínio específico. Sobre os sinais dessa questão, podemos afirmar que eles são discretos, ou seja, possuem a sua variável independente "n" pertencente ao domínio do tempo discreto, onde "n" \$ \in \$  \$ \Z \$ . Além disso, propõe que os alunos possam conhecer as representações gráficas de sinais básicos, como, impulso unitário, degrau unitário, rampa unitária e a exponencial, considerando o intervalo exigido.
+
+
+Questão 2 - Essa questão aborda o conceito de periodicidade sobre funções. Dizemos que uma função é periódica, quando: f(k) = f(k + n*N), onde K \$ \in \$, n \$ \in \$ \$ \Z \$, N \$ \in \$ \$ \Z \$ .
+O objetivo é fazer com que o aluno coloque em prática esse conhecimento exigido por ela. Com isso, deve-se classificar as funções propostas pela questão em, periódicas ou aperiódicas, considerando o intervalo exigido.
+
+
+Questão 3 - Nessa questão podemos observar que muitos conceitos importantes estão sendo utilizados e relacionados entre si. O objetivo é obter o sinal de saída do sistemas através da convolução entre o sinal de entrada e a resposta impulsional. O primeiro fator importante abordado é de que se trata de um sistema linear invariante no tempo, ou seja, é um conjunto de operações matemáticas que não se alteram ao longo do tempo matemáticas e que só realizam operações lineares sobre os sinais de entradas afim de determinar o sinal de saída. O segundo fator é a resposta impulsional, que é saída de um sistema quando a entrada é um impulso. Por último, é a relação entre a entrada, a saída e a resposta impulsional do sistema, que por ser SLIT, podemos escrever a saída como a convolução entre o sinal de entrada e a resposta impulsional.
+
+Questão 4 - Nessa questão utilizaremos os conceitos de transformada Z e equação de diferenças finitas.
+
