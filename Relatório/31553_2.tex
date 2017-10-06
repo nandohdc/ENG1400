@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper]{article}
 \usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[portuguese]{babel}
@@ -66,12 +66,61 @@ Essa questão aborda conceitos básicos sobre construção de sinais e suas repr
 
 	\subsection{Letra (A)}
 	\addcontentsline{toc}{section}{Letra (A)}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[width=\textwidth,scale=0.4]{1a-Imp}
+				\caption{Gráfico - Impulso}
+			\end{figure}
+			\newpage
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.5]{1a-Deg}
+				\caption{Gráfico - Degrau}
+			\end{figure}
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.5]{1a-Ramp}
+				\caption{Gráfico - Rampa}
+			\end{figure}
+			\newpage
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.5]{1a-Exp}
+				\caption{Gráfico - Exponencial}
+			\end{figure}
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.5]{1a-Tudo}
+				\caption{Gráfico - Tudo}
+			\end{figure}
+			\newpage
 	
 	\subsection{Letra (B)}
 	\addcontentsline{toc}{section}{Letra (B)}
 	
 	\subsection{Letra (C)}
 	\addcontentsline{toc}{section}{Letra (C)}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.6]{1c-Deg1}
+				\caption{Gráfico - Degrau}
+			\end{figure}
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.6]{1c-Deg2}
+				\caption{Gráfico - Degrau}
+			\end{figure}
+
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.6]{1c-Rect}
+				\caption{Gráfico - Rampa}
+			\end{figure}
 	
 	\subsection{Letra (D)}
 	\addcontentsline{toc}{section}{Letra (D)}
@@ -85,13 +134,20 @@ O objetivo é fazer com que o aluno coloque em prática esse conhecimento exigid
 \section{Questão 3}
 \addcontentsline{toc}{section}{Questão 3}
 Nessa questão podemos observar que muitos conceitos importantes estão sendo utilizados e relacionados entre si. O objetivo é obter o sinal de saída do sistemas através da convolução entre o sinal de entrada e a resposta impulsional. O primeiro fator importante abordado é de que se trata de um sistema linear invariante no tempo, ou seja, é um conjunto de operações matemáticas que não se alteram ao longo do tempo matemáticas e que só realizam operações lineares sobre os sinais de entradas afim de determinar o sinal de saída. O segundo fator é a resposta impulsional, que é saída de um sistema quando a entrada é um impulso. Por último, é a relação entre a entrada, a saída e a resposta impulsional do sistema, que por ser SLIT, podemos escrever a saída como a convolução entre o sinal de entrada e a resposta impulsional.
+	\subsection{Letra (A)}
+	\addcontentsline{toc}{section}{Letra (A)}
+		\begin{figure}[!ht]
+				\centering
+				\includegraphics[width=\textwidth]{3a-respostaimpulsional}
+				\caption{Gráfico - Resposta Impulsional}
+		\end{figure}
 
 \section{Questão 4}
 \addcontentsline{toc}{section}{Questão 4}
 Nessa questão utilizaremos os conceitos de transformada Z e equação de diferenças finitas. A transformada 
 $\mathbb{Z}$ permite construir uma função a partir de uma série. Com isso, possibilitará transformar equações diferenciais finitas em equações algébricas.
-Seja f(t) definida para t $\ge$ 0. A Transformada-Z da série {f(nT)}
-{\displaystyle \{f(nT)\}} é dada por: {\displaystyle F(z)={\mathcal{Z}}\{f[n]\}=\sum _{n=0}^{\infty}f[n]z^{-n}}
+Seja f(t) definida para t $\ge$ 0. A Transformada-Z da série \{f(nT)\} \text{é dada por:}
+F(z) = $\mathcal{Z}\{f[n]\}$ = $\sum{_{n=0}^{\infty} f[n] z^{-n}}$
 
 \section{Conclusão}
 \addcontentsline{toc}{section}{Conclusão}
