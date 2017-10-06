@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.26)  5 OCT 2017 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.26)  5 OCT 2017 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -962,39 +962,60 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.94 {\displaystyle
+                    \{f(nT)\}} é dada por: {\displaystyle F(z)={\mathcal{Z}...
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
- [2] [3]
-(./31553_2.aux) ) 
+? 
+! Extra }, or forgotten $.
+l.94 {\displaystyle \{f(nT)\}}
+                               é dada por: {\displaystyle F(z)={\mathcal{Z}...
+
+? 
+
+LaTeX Warning: Command \' invalid in math mode on input line 94.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.95 
+     
+? 
+Missing character: There is no � in font cmr12!
+[2] [3] (./31553_2.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 94 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 14448 strings out of 492990
- 278317 string characters out of 6132636
- 327895 words of memory out of 5000000
- 17687 multiletter control sequences out of 15000+600000
- 15775 words of font info for 44 fonts, out of 8000000 for 9000
+ 14423 strings out of 492990
+ 277938 string characters out of 6132636
+ 326895 words of memory out of 5000000
+ 17668 multiletter control sequences out of 15000+600000
+ 14459 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,54p,878b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/c
-m-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/sym
-bols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super
-/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/s
-fbx1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfb
-x2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0
-600.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm120
-0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1200.pf
-b>
-Output written on 31553_2.pdf (4 pages, 1397971 bytes).
+ 55i,5n,54p,878b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pf
+b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on 31553_2.pdf (4 pages, 1425272 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

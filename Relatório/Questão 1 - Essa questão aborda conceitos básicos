@@ -7,5 +7,13 @@ O objetivo é fazer com que o aluno coloque em prática esse conhecimento exigid
 
 Questão 3 - Nessa questão podemos observar que muitos conceitos importantes estão sendo utilizados e relacionados entre si. O objetivo é obter o sinal de saída do sistemas através da convolução entre o sinal de entrada e a resposta impulsional. O primeiro fator importante abordado é de que se trata de um sistema linear invariante no tempo, ou seja, é um conjunto de operações matemáticas que não se alteram ao longo do tempo matemáticas e que só realizam operações lineares sobre os sinais de entradas afim de determinar o sinal de saída. O segundo fator é a resposta impulsional, que é saída de um sistema quando a entrada é um impulso. Por último, é a relação entre a entrada, a saída e a resposta impulsional do sistema, que por ser SLIT, podemos escrever a saída como a convolução entre o sinal de entrada e a resposta impulsional.
 
-Questão 4 - Nessa questão utilizaremos os conceitos de transformada Z e equação de diferenças finitas.
+Questão 4 - Nessa questão utilizaremos os conceitos de transformada Z e equação de diferenças finitas. O objetivo é ..... .A transformada 
+$\mathbb {Z}$ permite construir uma função a partir de uma série. Com isso, possibilitará transformar equações de diferenças finitas em equações algébricas.
+Seja f(t) definida para t ≥ 0. A Transformada-Z da série {f(nT)}
+{\displaystyle \{f(nT)\}} é dada por: {\displaystyle F(z)={\mathcal{Z}}\{f[n]\}=\sum _{n=0}^{\infty}f[n]z^{-n}}
 
+
+
+
+Função de Transferencia (SLIT-TD) -> Relacao entre a transformada z da saída e transformada z da entrada quando a entrada é aplicada com condicoes inciais nulas.
+=> H(Z) = Y(Z)/X(Z)
